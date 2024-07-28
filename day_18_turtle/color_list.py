@@ -1,0 +1,21 @@
+color_list = [
+    "red",
+    "blue",
+    "green",
+    "yellow",
+    "purple",
+    "orange",
+    "pink",
+    "brown",
+    "black",
+    "cyan",
+    "magenta",
+    "lime",
+    "indigo",
+    "violet",
+    "gold",
+    "silver",
+    "coral",
+    "turquoise",
+    "navy"
+]
